@@ -1,2 +1,2 @@
-# SmartParking-Digital-Image-Processing
+# SmartParking
 Proyecto final para la materia de procesamiento digital de imagenes realizado con el acompañamiento del semillero de robótica de la UAO. Consiste en un parqueadero inteligente, se realiza una segmentación de los estacionamientos haciendo uso de una cámara, mediante procesamiento de imagen se identifica la disponibilidad del mismo, seguidamente se hace uso del algoritmo A* para encontrar la ruta más rápida desde la posición del vehículo hasta el estacionamiento libre más cercano a él y se envia esta información a la base de datos FireBase para representarlo gráficamente en una aplicación web mediante Proccesing haciendo uso de la libreria P5js
